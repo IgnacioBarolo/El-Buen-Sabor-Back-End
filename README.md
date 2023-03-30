@@ -11,10 +11,6 @@ Integrantes del grupo:
 - [Barros Katerina](https://github.com/KaterinaBarros)
 - [Natel Guillermina](https://github.com/guillenatel)
 
-Link al Wireframe en Figma:
-
-[![figma_logo_icon_147289](https://user-images.githubusercontent.com/103141811/225666687-4ce263e2-e8da-4f9f-8a75-2e4152ad2f35.svg)](https://www.figma.com/files/team/1217551669501424491/Metodologia?fuid=1217935974206768035)
-
 Tecnologías:
 
 [![java](https://user-images.githubusercontent.com/103141811/225781658-5ed08f6c-0e3d-49b5-a67a-72db194b8f2a.png)](https://www.java.com/es/)
